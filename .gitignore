@@ -1,0 +1,15 @@
+# 환경변수 파일 (보안상 절대 올리면 안됨)
+.env
+
+# 파이썬 컴파일 파일
+__pycache__/
+*.pyc
+
+# 가상환경 폴더
+venv/
+.venv/
+env/
+
+# IDE 설정 파일
+.idea/
+.vscode/
